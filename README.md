@@ -1,5 +1,5 @@
-# ruby-cli-template
+# Another Great Influnce LLC Inventory 
 
-Use this repository as a template for your Ruby CLI (command line interface) project.
+An app used to add products the the company's inventory.
 
 - Ruby version: `3.2.1`
