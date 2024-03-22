@@ -8,4 +8,4 @@
 
    ```bash
    git clone https://github.com/ricealonzo/inventory_cli.git
-   cd my_custom_cli
+   cd inventory_cli
