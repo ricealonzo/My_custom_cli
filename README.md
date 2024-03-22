@@ -2,7 +2,7 @@
 
 ## Usage
 
-1. Run ruby ```app.rb in``` the terminal
+1. Run ruby ```app.rb ``` in the terminal
 
 1. Clone the repository:
 
