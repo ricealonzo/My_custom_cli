@@ -1,5 +1,11 @@
 # Another Great Influnce LLC Inventory 
 
-An app used to add products to the company's inventory.
+## Usage
 
-- Ruby version: `3.2.1`
+1. Run ruby ```app.rb in``` the terminal
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/ricealonzo/inventory_cli.git
+   cd my_custom_cli
